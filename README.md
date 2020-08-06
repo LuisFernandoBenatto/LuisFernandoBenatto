@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[! [Linkedin](https://www.linkedin.com/in/luis-fernando-meneghel-benatto-238061197/)]
+
 ### 🎉🎊 Welcome to my profile 🎉🎊
 
  I'm Luís Fernando Meneghel Benatto. 
