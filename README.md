@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### 🎉🎊 welcome to my profile 🎉🎊
+
+ I'm Luís Fernando Meneghel Benatto. 
+ 
+ - 🤤 I really love learn new things.
+ - 📚 I'm currently studying Computer Science at the best university in Paraná, the UENP university.
+ - 💻 I'm currently my time to learn JavaScript
+
+ 
+ 
+ 
 <!--
 **LuisFernandoBenatto/LuisFernandoBenatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
