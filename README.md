@@ -9,7 +9,7 @@
  - 💻 I'm currently my time to learn JavaScript
 
 ![luisfernandobenatto's github stats](https://github-readme-stats.vercel.app/api?username=luisfernandobenatto)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandobenatto&layout=compact)](https://github.com/luisfernandobenatto/github-readme-stats) 
 <!--
 **LuisFernandoBenatto/LuisFernandoBenatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
