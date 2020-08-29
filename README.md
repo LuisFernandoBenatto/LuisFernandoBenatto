@@ -10,8 +10,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandobenatto&show_icons=true&theme=radical)](https://github.com/luisfernandobenatto/github-readme-stats) 
 
- 
- [![luisfernandobenatto's github stats](https://github-readme-stats.vercel.app/api?username=luisfernandobenatto&show_icons=true&theme=radical)](https://github.com/luisfernandobenatto/github-readme-stats) 
+<!-- [![luisfernandobenatto's github stats](https://github-readme-stats.vercel.app/api?username=luisfernandobenatto&show_icons=true&theme=radical)](https://github.com/luisfernandobenatto/github-readme-stats) -->
 <!--
 **LuisFernandoBenatto/LuisFernandoBenatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
