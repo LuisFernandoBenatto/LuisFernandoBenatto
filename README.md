@@ -3,8 +3,9 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-meneghel-benatto-238061197/)](https://www.linkedin.com/in/luis-fernando-meneghel-benatto-238061197/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luisbenatto5@gmail.com)](mailto:luisbenatto5@gmail.com/)
-  [![Github Badge](https://img.shields.io/badge/-Github-%23000000?style=for-the-badge&logo=Github&logoColor=white&link=href="https://github.com/LuisFernandoBenatto)](href="https://github.com/LuisFernandoBenatto/)
-  <!--<a href="https://github.com/LuisFernandoBenatto" target="_blank"><img src="https://img.shields.io/badge/-Github-%23000000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a>  
+   <a href="https://github.com/LuisFernandoBenatto" target="_blank"><img src="https://img.shields.io/badge/-Github-%23000000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a>  
+  <!--[![Github Badge](https://img.shields.io/badge/-Github-%23000000?style=for-the-badge&logo=Github&logoColor=white&link=href="https://github.com/LuisFernandoBenatto)](href="https://github.com/LuisFernandoBenatto/)
+
   <a href="https://www.linkedin.com/in/luis-fernando-meneghel-benatto-238061197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->  
 </div>
 <div align="center">
