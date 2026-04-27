@@ -7,8 +7,8 @@
   <!--[![Github Badge](https://img.shields.io/badge/-Github-%23000000?style=for-the-badge&logo=Github&logoColor=white&link=href="https://github.com/LuisFernandoBenatto)](href="https://github.com/LuisFernandoBenatto/)
 
   <a href="https://www.linkedin.com/in/luis-fernando-meneghel-benatto-238061197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->  
-</div>
-<div align="center">
+<!--</div>
+<div>
   <a href="https://github.com/LuisFernandoBenatto"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandobenatto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -46,7 +46,7 @@
   <img align="center" alt="Luis-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Luis-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luis-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div><br />
+</div><br />-->
 
 <!--<b>🏆 Github Achievements</b></br>
 <div align="start" style="display: inline_block">
